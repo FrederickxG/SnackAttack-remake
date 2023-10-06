@@ -371,3 +371,4 @@ Received Import Request.
 Start importing Assets/Scenes/SnackAttack.unity using Guid(17eafd0466aa84f9e926f56914494921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f568437d29a90acd24f6d84f8c2673c7') in 0.001889 seconds 
   Import took 0.006020 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
