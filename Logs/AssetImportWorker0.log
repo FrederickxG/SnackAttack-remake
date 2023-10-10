@@ -291,3 +291,4 @@ Received Import Request.
 Start importing Assets/Scripts/ThirdPersonController.cs using Guid(26e54e5a728a9234ab24fcf1460ed8a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '131c9e75f0016a3c9d4583e815ea4c3c') in 0.003177 seconds 
   Import took 0.007221 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
